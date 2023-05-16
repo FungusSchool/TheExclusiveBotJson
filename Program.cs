@@ -16,7 +16,7 @@ namespace TheExclusiveBotJson
         static void Main(string[] args)
         {
             // Start a new client with the info for which channel and which account to use with the authentication key.
-            IrcClient client = new IrcClient("irc.twitch.tv", 6667, "theexclusivebot", "oauth:t7wymmwj75zgl2ppnp512stu65ubi2", "theexclusivefurry");
+            IrcClient client = new IrcClient("irc.twitch.tv", 6667, "theexclusivebot", "oauth:wxdnxkymdfgkn8jmereoxa16jb8xmt", "theexclusivefurry");
 
             // Start a new pinger which makes sure that the bot is still connected to twitch
             var pinger = new Pinger(client);
@@ -56,7 +56,6 @@ namespace TheExclusiveBotJson
                     //Console.WriteLine($"{item.userName} {item.userPoints} {item.userPosition}");
                     item.UserPosition = tempCounter;
                 }
-
                 // Create the current chatter/user and setting the current username to blank.
                 string userName = " ";
                 User chatter = new User();
@@ -121,7 +120,6 @@ namespace TheExclusiveBotJson
                             {
                                 client.SendChatMessage("@" + userName + " you have not said cute in this chat how weird. You should start.");
                             }
-
                         }
                         // If the command is cutecommands then tell the user all the possible commands and what they do.
                         if (maybeCommand.ToLower() == "cutecommands")

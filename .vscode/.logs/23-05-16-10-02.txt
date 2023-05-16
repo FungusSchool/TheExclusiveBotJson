@@ -378,3 +378,222 @@ namespace TheExclusiveBotJson
         }
     }
 }
+
+00:10:53 c:\MyCode\TheExclusiveBotJson\.git\COMMIT_EDITMSG
+
+00:11:29 c:\MyCode\TheExclusiveBotJson\Program.cs
+
+00:12:56 c:\MyCode\TheExclusiveBotJson\SaveFileAndUsers.cs
+
+00:12:57 c:\MyCode\TheExclusiveBotJson\Pinger.cs
+
+00:13:00 c:\MyCode\TheExclusiveBotJson\IrcClient.cs
+
+00:17:50 c:\MyCode\TheExclusiveBotJson\Pinger.cs
+
+00:18:19 c:\MyCode\TheExclusiveBotJson\Program.cs
+
+00:18:22 c:\MyCode\TheExclusiveBotJson\Pinger.cs
+
+00:19:54 c:\MyCode\TheExclusiveBotJson\Program.cs
+00:25:02 018:088  > oauth:wxdnxkymdfgkn8jmereoxa16jb8xmt
+
+00:29:56 c:\MyCode\TheExclusiveBotJson\.vscode\.logs\23-05-16-10-02.txt
+
+00:30:08 c:\MyCode\TheExclusiveBotJson\Count.txt
+
+00:30:10 c:\MyCode\TheExclusiveBotJson\Count.json
+
+00:30:12 c:\MyCode\TheExclusiveBotJson\Count.txt
+
+00:30:13 c:\MyCode\TheExclusiveBotJson\Count.json
+
+00:30:14 c:\MyCode\TheExclusiveBotJson\Program.cs
+00:30:36 017:012  > t
+00:30:37 017:013  > x
+00:30:37 017:014  > t
+00:30:37 017:012  > txtToJsonSaveFile
+00:30:38 017:029  > ()
+00:30:38 017:030  > )
+00:30:39 017:031  > ;
+00:30:44 001:000  >   "TotalPoints": 360,
+  "UserList": [
+    {
+      "UserName": "scoutlinus",
+      "UserPoints": 311,
+      "UserPosition": 1
+    },
+    {
+      "UserName": "asdn",
+      "UserPoints": 17,
+      "UserPosition": 2
+    },
+    {
+      "UserName": "mongoliet",
+      "UserPoints": 11,
+      "UserPosition": 3
+    },
+    {
+      "UserName": "aodhnv",
+      "UserPoints": 10,
+      "UserPosition": 4
+    },
+    {
+      "UserName": "opsuhdv",
+      "UserPoints": 1,
+      "UserPosition": 5
+
+
+00:30:53 c:\MyCode\TheExclusiveBotJson\Count.txt
+
+00:30:54 c:\MyCode\TheExclusiveBotJson\IrcClient.cs
+
+00:30:55 c:\MyCode\TheExclusiveBotJson\Count.txt
+
+00:30:56 c:\MyCode\TheExclusiveBotJson\Count.json
+
+00:31:06 c:\MyCode\TheExclusiveBotJson\Program.cs
+
+00:32:51 c:\MyCode\TheExclusiveBotJson\IrcClient.cs
+
+00:32:56 c:\MyCode\TheExclusiveBotJson\Program.cs
+00:32:58 063:016  > w
+00:32:59 063:016  > while
+00:33:01 063:016  > w
+00:33:09 064:016  > b
+00:33:10 064:017  > o
+00:33:10 064:018  > o
+00:33:10 064:019  > l
+00:33:11 064:016  > bool
+00:33:14 064:021  > f
+00:33:14 064:022  > i
+00:33:14 064:023  > r
+00:33:14 064:024  > s
+00:33:14 064:025  > t
+00:33:15 064:026  > M
+00:33:15 064:027  > e
+00:33:16 064:028  > s
+00:33:16 064:029  > a
+00:33:17 064:029  > s
+00:33:17 064:030  > a
+00:33:17 064:031  > g
+00:33:17 064:032  > e
+00:33:18 064:033  > R
+00:33:18 064:034  > e
+00:33:18 064:035  > a
+00:33:18 064:036  > d
+00:33:19 064:038  > =
+00:33:20 064:040  > f
+00:33:20 064:041  > a
+00:33:20 064:042  > l
+00:33:20 064:043  > s
+00:33:20 064:044  > e
+00:33:21 064:040  > false
+00:33:22 064:045  > ;
+00:33:23 065:016  > w
+00:33:24 065:016  > while
+00:33:27 065:022  > ()
+00:33:28 065:023  > f
+00:33:28 065:024  > a
+00:33:29 065:025  > l
+00:33:31 065:023  > f
+00:33:32 065:024  > i
+00:33:32 065:025  > r
+00:33:32 065:023  > firstMessageRead
+00:33:34 065:023  > !
+00:33:36 065:024  > f
+00:33:37 065:024  > F
+00:33:38 065:025  > i
+00:33:43 065:027  > s
+00:33:51 065:024  > f
+00:33:57 066:016  > {}
+00:34:00 069:051  > 
+                }
+00:34:17 067:055  > 
+                {
+00:34:17 066:055  > 
+                while (!firstMessageRead)
+00:34:27 066:041  > &
+00:34:27 066:042  > &
+00:34:29 066:044  > m
+00:34:29 066:045  > e
+00:34:30 066:044  > message
+00:34:31 066:052  > =
+00:34:31 066:054  > n
+00:34:32 066:055  > u
+00:34:32 066:056  > l
+00:34:32 066:057  > l
+00:34:34 066:054  > null
+00:34:45 066:053  > =
+00:34:52 068:020  >                 var message = client.ReadMessage();
+
+00:35:01 069:020  > f
+00:35:02 069:021  > i
+00:35:02 069:020  > firstMessageRead
+00:35:11 069:037  > =
+00:35:12 069:039  > t
+00:35:12 069:040  > u
+00:35:12 069:041  > r
+00:35:12 069:042  > e
+00:35:13 069:040  > r
+00:35:13 069:041  > u
+00:35:14 069:042  > e
+00:35:14 069:043  > M
+00:35:15 069:039  > true
+00:35:15 069:043  > ;
+
+00:35:48 c:\MyCode\TheExclusiveBotJson\IrcClient.cs
+
+00:36:24 c:\MyCode\TheExclusiveBotJson\Program.cs
+00:36:27 068:020  > c
+00:36:28 068:021  > w
+00:36:29 068:020  > Console.WriteLine();
+00:36:29 068:028  > WriteLine
+00:36:32 068:038  > ""
+00:36:32 068:039  > y
+00:36:33 068:040  > e
+00:36:34 068:039  > t
+00:36:34 068:040  > e
+00:36:34 068:041  > s
+00:36:35 068:042  > t
+00:38:10 071:017  >  */
+00:38:10 066:000  > /* 
+00:43:14 064:000  >                 bool firstMessageRead = false;
+
+00:43:14 070:000  >                     firstMessageRead = true;
+
+00:43:20 070:020  > i
+00:43:20 070:021  > f
+00:43:21 070:020  > if (condition)
+                    {
+                        
+                    }
+00:43:26 070:024  > m
+00:43:26 070:025  > e
+00:43:28 070:024  > message
+00:43:29 070:000  >                     if (message != null && firstMessageRead == false
+00:43:35 074:044  > 
+                    }
+00:44:09 074:020  > t
+00:44:09 074:021  > e
+00:44:10 074:020  > t
+00:44:10 074:021  > r
+00:44:11 074:022  > e
+00:44:13 074:020  > t
+00:44:13 074:021  > h
+00:44:13 074:022  > r
+00:44:13 074:023  > e
+00:44:14 074:020  > Thread
+00:44:15 074:026  > .
+00:44:15 074:027  > t
+00:44:16 074:028  > r
+00:44:17 074:027  > T
+00:44:18 074:027  > s
+00:44:18 074:028  > l
+00:44:19 074:027  > Sleep
+00:44:20 074:032  > ()
+00:44:24 074:033  > 1
+00:44:24 074:034  > 0
+00:44:27 074:036  > ;
+00:44:47 074:035  > 0
+00:44:47 074:036  > 0

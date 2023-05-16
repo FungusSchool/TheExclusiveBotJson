@@ -1,30 +1,30 @@
 {
-  "totalPoints": 365,
-  "userList": [
+  "TotalPoints": 360,
+  "UserList": [
     {
-      "userName": "scoutlinus",
-      "userPoints": 316,
-      "userPosition": 1
+      "UserName": "scoutlinus",
+      "UserPoints": 311,
+      "UserPosition": 1
     },
     {
-      "userName": "asdn",
-      "userPoints": 17,
-      "userPosition": 2
+      "UserName": "asdn",
+      "UserPoints": 17,
+      "UserPosition": 2
     },
     {
-      "userName": "mongoliet",
-      "userPoints": 11,
-      "userPosition": 3
+      "UserName": "mongoliet",
+      "UserPoints": 11,
+      "UserPosition": 3
     },
     {
-      "userName": "aodhnv",
-      "userPoints": 10,
-      "userPosition": 4
+      "UserName": "aodhnv",
+      "UserPoints": 10,
+      "UserPosition": 4
     },
     {
-      "userName": "opsuhdv",
-      "userPoints": 1,
-      "userPosition": 5
+      "UserName": "opsuhdv",
+      "UserPoints": 1,
+      "UserPosition": 5
     }
   ]
 }
