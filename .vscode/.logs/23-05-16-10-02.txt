@@ -1,0 +1,19 @@
+
+00:00:00 c:\MyCode\TheExclusiveBotJson\Program.cs
+
+00:00:37 c:\MyCode\TheExclusiveBotJson\SaveFileAndUsers.cs
+
+00:00:38 c:\MyCode\TheExclusiveBotJson\Pinger.cs
+
+00:00:39 c:\MyCode\TheExclusiveBotJson\IrcClient.cs
+
+00:00:40 c:\MyCode\TheExclusiveBotJson\SaveFileAndUsers.cs
+
+00:00:41 c:\MyCode\TheExclusiveBotJson\Program.cs
+
+00:02:13 c:\MyCode\TheExclusiveBotJson\SaveFileAndUsers.cs
+
+00:06:06 c:\MyCode\TheExclusiveBotJson\Program.cs
+00:06:37 035:020  > ?
+00:10:43 000:000  > J
+00:10:43 000:001  > a

@@ -1,0 +1,30 @@
+{
+  "totalPoints": 365,
+  "userList": [
+    {
+      "userName": "scoutlinus",
+      "userPoints": 316,
+      "userPosition": 1
+    },
+    {
+      "userName": "asdn",
+      "userPoints": 17,
+      "userPosition": 2
+    },
+    {
+      "userName": "mongoliet",
+      "userPoints": 11,
+      "userPosition": 3
+    },
+    {
+      "userName": "aodhnv",
+      "userPoints": 10,
+      "userPosition": 4
+    },
+    {
+      "userName": "opsuhdv",
+      "userPoints": 1,
+      "userPosition": 5
+    }
+  ]
+}
